@@ -1,0 +1,23 @@
+# dictionary.txt – Contraseñas comunes para ataque por diccionario
+# Las líneas que comienzan con '#' son ignoradas por DictionaryGenerator
+
+password
+123456
+password123
+admin
+letmein
+qwerty
+abc123
+monkey
+iloveyou
+sunshine
+princess
+football
+welcome
+shadow
+master
+dragon
+superman
+batman
+starwars
+trustno1
